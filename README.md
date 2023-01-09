@@ -1,2 +1,2 @@
 # java-8
-update 333 and more
+update 333 and more online installer
